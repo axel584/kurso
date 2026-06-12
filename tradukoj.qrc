@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/">
+        <file>tradukoj/angla.trd</file>
+        <file>tradukoj/araba.trd</file>
+        <file>tradukoj/bulgara.trd</file>
+        <file>tradukoj/ceha.trd</file>
+        <file>tradukoj/china.trd</file>
+        <file>tradukoj/dana.trd</file>
+        <file>tradukoj/esperanto.trd</file>
+        <file>tradukoj/finna.trd</file>
+        <file>tradukoj/franca.trd</file>
+        <file>tradukoj/germana.trd</file>
+        <file>tradukoj/greka.trd</file>
+        <file>tradukoj/hinda.trd</file>
+        <file>tradukoj/hispana.trd</file>
+        <file>tradukoj/hungara.trd</file>
+        <file>tradukoj/indonezia.trd</file>
+        <file>tradukoj/islanda.trd</file>
+        <file>tradukoj/itala.trd</file>
+        <file>tradukoj/japana.trd</file>
+        <file>tradukoj/kataluna.trd</file>
+        <file>tradukoj/korea.trd</file>
+        <file>tradukoj/kroata.trd</file>
+        <file>tradukoj/latva.trd</file>
+        <file>tradukoj/litova.trd</file>
+        <file>tradukoj/nederlanda.trd</file>
+        <file>tradukoj/persa.trd</file>
+        <file>tradukoj/pola.trd</file>
+        <file>tradukoj/portugala.trd</file>
+        <file>tradukoj/rusa.trd</file>
+        <file>tradukoj/rusa2.trd</file>
+        <file>tradukoj/serba.trd</file>
+        <file>tradukoj/slovaka.trd</file>
+        <file>tradukoj/slovena.trd</file>
+        <file>tradukoj/sveda.trd</file>
+        <file>tradukoj/tradukendaj.tdf</file>
+        <file>tradukoj/turka.trd</file>
+        <file>tradukoj/vjetnama.trd</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,63 @@
+
+QTabBar::scroller { /* the width of the scroll buttons */
+    width: 50px;
+}
+
+	
+QLabel {
+	qproperty-wordWrap: true;
+	}
+	
+QLabel[tipo="titolo_alia"] {
+	font-size: 16px;
+	font-weight: bold;
+	}
+
+QSpinBox[tipo="shilda"] {
+	min-height: 32px;
+	font-size: 24px;
+	font-weight: bold;
+	}
+	
+
+QFrame[tipo="senborda"] {
+	border: none;
+	}
+
+
+
+label_sago_reversa {
+	margin-left: 15px;
+	/* background-image: url(:ikonoj/sago_revena.png); */
+	max-height: 24px;
+	min-height: 24px;
+	max-width:  24px;
+	min-width:  24px;
+	}
+	
+
+QFrame[tipo="shilda"] {
+	border: 1px solid lightGrey;
+	border-radius: 3px;
+}
+
+QFrame[tipo="ekzerca"] {
+   border-width: 1px;
+   border-style: solid;
+   border-radius: 3px;
+}
+
+QFrame[tipo="markebla"] {
+   border-width: 2px;
+   border-style: solid;
+   border-radius: 5px;
+}
+
+
+mp3ludilo {
+	max-height: 34px;
+	max-width:  71px;
+	min-height: 34px;
+	max-width:  71px;
+	}
+

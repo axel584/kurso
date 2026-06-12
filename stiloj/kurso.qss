@@ -1,0 +1,128 @@
+QLineEdit { color: black; background: lightyellow;}
+
+QFrame[tipo="shilda"], QSpinBox[tipo="shilda"] {
+	background-color: #FDEAE4;
+}
+
+QFrame[tipo="markebla"] {
+   border-color: #DB9375;
+}
+
+QFrame[tipo="ekzerca"] {
+   border-top-color: #e5b39e;
+   border-left-color: #e5b39e;
+   border-right-color: #f4ded5;
+   border-bottom-color: #f4ded5;
+   background-color: #fbf4f1;
+}
+
+QLabel[tipo="teksta"] {
+         background-color: #fbf4f1; 
+	 }
+
+QPushButton[tipo="speciala"] {
+        border: 1px solid black;
+	border-radius: 5px;
+	min-height: 2em;
+        padding-left: 1em;
+        padding-right: 1em;
+	}
+
+
+QPushButton[tipo="speciala"]:enabled {
+         /* background: qlineargradient( x1:0, y1:0, x2:0, y2:1, stop:0 #FDF8F5, stop:1 #DB9375); */
+         background-color: #FDEAE4;
+         }
+    
+QPushButton[tipo="speciala"]:disabled {
+   	 background-color: white;
+	 color: #666666;
+	 }
+
+QPushButton[tipo="speciala"]:pressed {
+	 padding-top: 5px;
+	 padding-left: 5px;
+	 }
+
+/*
+QPushButton[tipo="speciala"]:hover {
+   	 background: qlineargradient( x1:0, y1:0, x2:0, y2:1, 
+	 stop:0 #DB9375, 
+	 stop:0.2 #FDF8F5, 
+	 stop:0.8 #FDF8F5, 
+	 stop:1   #DB9375); 
+	 }
+
+*/
+
+klakbutono_nova {
+    font-weight: bold;
+    color: #2E4272;
+}
+
+klakbutono_nova:pressed {
+    padding-left: 1px;
+    padding-top: 4px;
+}
+
+
+QLabel[tipo="titolo_alia"] {
+        font-size: 16px;
+        font-weight: bold;
+        }
+
+QSpinBox[tipo="shilda"] {
+        min-height: 24px;
+        font-size: 18px;
+        font-weight: bold;
+        }
+
+
+QFrame[tipo="senborda"] {
+        border: none;
+        }
+
+neklakebla_nova,  QFrame[tipo="esperanta"]  {
+    font-weight: bold;
+    color: #D35828;
+ }
+
+korekta  {
+    color: #D35828;
+ }
+
+
+label_sago_reversa, QLabel[tipo="egala"] {
+        margin-left: 15px;
+        max-height: 24px;
+        min-height: 24px;
+        max-width:  24px;
+        min-width:  24px;
+        }
+
+
+QFrame[tipo="shilda"] {
+        border: 1px solid lightGrey;
+        border-radius: 3px;
+}
+
+QFrame[tipo="ekzerca"] {
+   border-width: 1px;
+   border-style: solid;
+   border-radius: 3px;
+}
+
+QFrame[tipo="markebla"] {
+   border-width: 2px;
+   border-style: solid;
+   border-radius: 5px;
+}
+
+
+mp3ludilo {
+        max-height: 34px;
+        max-width:  71px;
+        min-height: 34px;
+        min-width:  71px;
+        }
+

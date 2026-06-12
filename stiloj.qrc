@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>stiloj/kurso_eta.qss</file>
+        <file>stiloj/leciono.qss</file>
+        <file>stiloj/kurso.qss</file>
+        <file>stiloj/butono_vortoj.qss</file>
+        <file>stiloj/butono_disponeblaj.qss</file>
+    </qresource>
+</RCC>

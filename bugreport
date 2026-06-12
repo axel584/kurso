@@ -1,0 +1,20 @@
+1. Tiparo ne funkcias lau ghi grandeco - SOLVITA !! - kreita funkcio por konverti tiparon al 96dpi.
+2. Vortoludo - la traduko havas malgrandajn literojn - revizii la stilon - SOLVITA
+3. FileDownloader is tro malfrua.
+4. Tradukila fenestro tro granda en Androjdo. - SOLVITA --> Androjdo ne havos tradukilon !!!
+
+
+Windows 125%
+"devicePixelRatio = 1"
+"logicalDotsPerInch = 120"
+"Sistema tiparo: MS Shell Dlg 2"
+"Sistema litergrando (px): -1"
+"Sistema litergrando (pt): 8"
+
+
+Androjdo Máximo
+D KursoKape: "devicePixelRatio = 2.7"
+D KursoKape: "logicalDotsPerInch = 72"
+D KursoKape: "Sistema tiparo: Helvetica"
+D KursoKape: "Sistema litergrando (px): 18"
+D KursoKape: "Sistema litergrando (pt): -1"

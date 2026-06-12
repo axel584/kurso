@@ -1,0 +1,107 @@
+<?xml version="1.0" ?>
+<XML_DIZ_INFO>
+	<MASTER_PAD_VERSION_INFO>
+		<MASTER_PAD_VERSION>3.11</MASTER_PAD_VERSION>
+		<MASTER_PAD_EDITOR>PADGen 3.1.1.50 http://www.padgen.org</MASTER_PAD_EDITOR>
+		<MASTER_PAD_INFO>Portable Application Description, or PAD for short, is a data set that is used by shareware authors to disseminate information to anyone interested in their software products. To find out more go to http://pad.asp-software.org</MASTER_PAD_INFO>
+	</MASTER_PAD_VERSION_INFO>
+	<Company_Info>
+		<Company_Name>Kurso de Esperanto</Company_Name>
+		<Address_1 />
+		<Address_2 />
+		<City_Town>Brasilia</City_Town>
+		<State_Province>DF</State_Province>
+		<Zip_Postal_Code />
+		<Country>Brazil</Country>
+		<Company_WebSite_URL>http://kurso.com.br</Company_WebSite_URL>
+		<Contact_Info>
+			<Author_First_Name>Carlos</Author_First_Name>
+			<Author_Last_Name>Pereira</Author_Last_Name>
+			<Author_Email>karlo@kurso.com.br</Author_Email>
+			<Contact_First_Name>Carlos</Contact_First_Name>
+			<Contact_Last_Name>Pereira</Contact_Last_Name>
+			<Contact_Email>karlo@kurso.com.br</Contact_Email>
+		</Contact_Info>
+		<Support_Info>
+			<Sales_Email>kurso@kurso.com.br</Sales_Email>
+			<Support_Email>kurso@kurso.com.br</Support_Email>
+			<General_Email>kurso@kurso.com.br</General_Email>
+			<Sales_Phone />
+			<Support_Phone />
+			<General_Phone />
+			<Fax_Phone />
+		</Support_Info>
+	</Company_Info>
+	<Program_Info>
+		<Program_Name>Kurso de Esperanto</Program_Name>
+		<Program_Version>4.0</Program_Version>
+		<Program_Release_Month>04</Program_Release_Month>
+		<Program_Release_Day>07</Program_Release_Day>
+		<Program_Release_Year>2012</Program_Release_Year>
+		<Program_Cost_Dollars />
+		<Program_Cost_Other_Code />
+		<Program_Cost_Other />
+		<Program_Type>Freeware</Program_Type>
+		<Program_Release_Status>New Release</Program_Release_Status>
+		<Program_Install_Support>Install and Uninstall</Program_Install_Support>
+		<Program_OS_Support>Linux,Linux Gnome,Linux GPL,Linux Open Source</Program_OS_Support>
+		<Program_Language>English,Bulgarian,Catalan,Croatian,Czech,Danish,Dutch,Esperanto,Finnish,French,German,Greek,Icelandic,Indonesian,Italian,Japanese,Korean,Latvian,Polish,Portuguese,Russian,Serbian,Serbo-Croatian,Slovak,Slovenian,Spanish,Swedish,Turkish,Vietnamese</Program_Language>
+		<Program_Change_Info />
+		<Program_Specific_Category>Education</Program_Specific_Category>
+		<Program_Category_Class>Education::Languages</Program_Category_Class>
+		<Program_System_Requirements />
+		<File_Info>
+			<File_Size_Bytes>33902761</File_Size_Bytes>
+			<File_Size_K>33108</File_Size_K>
+			<File_Size_MB>32.33</File_Size_MB>
+		</File_Info>
+		<Expire_Info>
+			<Has_Expire_Info>N</Has_Expire_Info>
+			<Expire_Count />
+			<Expire_Based_On>Days</Expire_Based_On>
+			<Expire_Other_Info />
+			<Expire_Month />
+			<Expire_Day />
+			<Expire_Year />
+		</Expire_Info>
+	</Program_Info>
+	<Program_Descriptions>
+		<English>
+			<Keywords>esperanto, course, kurso, cours, curso, international language</Keywords>
+			<Char_Desc_45>Learn Esperanto with this free course</Char_Desc_45>
+			<Char_Desc_80>Learn Esperanto with this free multimedia course. Only 12 lessons. </Char_Desc_80>
+			<Char_Desc_250>Learn Esperanto with this free multimedia course. Only 12 lessons. Pronunciation, exercises and MP3 songs. Translated to almost 30 languages. Esperanto is a language launched by a young Polish doctor to facilitate international communication.</Char_Desc_250>
+			<Char_Desc_450>Learn Esperanto with this free multimedia course. Only 12 lessons. Pronunciation, exercises and MP3 songs. Translated to almost 30 languages. Esperanto is a language launched by a young Polish doctor who was aware of the difficulties of communication between people not speaking the same language. Its goal is to facilitate the communication between the people of the whole world. It has no tendency towards political, cultural or religious hegemony.</Char_Desc_450>
+			<Char_Desc_2000>Kurso de Esperanto is a handy application that will help you to quickly learn the Esperanto language. It is a reliable and efficient teaching solution that you will really appreciate.
+
+Kurso de Esperanto features only 12  lessons. Each lesson presents varied exercises that will help you fix the vocabulary, pronunciation and the few grammatical rules of the international language.  It offers support for a wide variety of national languages. From the "Settings" menu, you can  select the language you want to use, and the font type and size.
+
+Kurso de Esperanto has a very friendly graphical interface which makes it incredibly easy to operate for all types of users, even those who have no computer experience at all.  The button "Where did I stop?", from the main window, redirects you to the lesson you last visited.
+
+Kurso de Esperanto is intended for a self-teaching approach, but you can get a tutor to correct  the exercises of translation and reading comprehension. Just click a button to have your exercises copied to the clipboard. Then you can paste them in the email to the tutor.
+
+The lessons and exercises can be printed, so you can study and answer the exercises more conveniently.
+
+Kurso de Esperanto can be quickly installed on your system, no changes are to made to the registry, except those necessary for the uninstall process. </Char_Desc_2000>
+		</English>
+	</Program_Descriptions>
+	<Web_Info>
+		<Application_URLs>
+			<Application_Info_URL>http://kurso.com.br</Application_Info_URL>
+			<Application_Order_URL />
+			<Application_Screenshot_URL>http://kurso.com.br/en/ekrano3.png</Application_Screenshot_URL>
+			<Application_Icon_URL>http://kurso.com.br/pad/kurso4_32_retejo.png</Application_Icon_URL>
+			<Application_XML_File_URL>http://kurso.com.br/pad/kurso4_linux.xml</Application_XML_File_URL>
+		</Application_URLs>
+		<Download_URLs>
+			<Primary_Download_URL>http://kurso.com.br/kurso.i386.tar.gz</Primary_Download_URL>
+			<Secondary_Download_URL />
+			<Additional_Download_URL_1 />
+			<Additional_Download_URL_2 />
+		</Download_URLs>
+	</Web_Info>
+	<Permissions>
+		<Distribution_Permissions />
+		<EULA />
+	</Permissions>
+</XML_DIZ_INFO>
